@@ -109,3 +109,6 @@ footer .logo{color:#fff}
 @media (max-width:960px){nav.m{display:none}.hg,.why,.fw{grid-template-columns:1fr}.grid3{grid-template-columns:1fr}.steps{grid-template-columns:1fr 1fr}.hero{padding:40px 0 72px}.mock{padding:10px 10px 30px}}
 @media (max-width:600px){section{padding:72px 0}.steps{grid-template-columns:1fr}form{grid-template-columns:1fr;padding:24px}.hr .btn-sm{display:none}.logo span{max-width:130px;line-height:1.2}.tag{left:0;top:auto;bottom:-6px;font-size:.75rem}.checks{gap:12px}.hero .btns .btn{flex:1;justify-content:center}.sh{margin-bottom:36px}}
 @media (max-width:600px){.hero .btns{flex-direction:column}.hero .btns .btn{width:100%}.btn{white-space:nowrap}.shape{display:none}}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.seo{background:#0d1730;color:#7f8aa6;padding:32px 0 0;font-size:.85rem;line-height:1.6}
+.seo h2{font-size:1rem;color:#c9d1e4;margin:0 0 8px}.seo p{margin:0 0 8px}.seo a{color:#c9d1e4}
