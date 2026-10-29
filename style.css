@@ -115,3 +115,6 @@ footer .logo{color:#fff}
 .seo h3{font-size:.9rem;color:#c9d1e4;margin:0 0 6px}
 
 .notice{background:#fff6dc;border-bottom:1px solid #ffe2a0;color:#14213d;font-size:.92rem;line-height:1.5;padding:12px 0}.notice a{color:#c2410c;font-weight:600}
+
+.tpl{display:grid;gap:24px;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));margin-top:36px}.tc{background:#fff;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;display:flex;flex-direction:column}.tc img{display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:cover;object-position:top;border-bottom:1px solid var(--line)}.tc>div{padding:20px 22px 24px;display:flex;flex-direction:column;gap:8px;flex:1}.tc p{color:var(--muted);margin:0 0 8px;flex:1}.tc .btn{align-self:flex-start}#templates{scroll-margin-top:80px}
+.tvb{padding:11px 20px;font-size:.95rem}@media(max-width:1180px){nav.m{gap:18px}}
